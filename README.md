@@ -32,7 +32,7 @@ To build strong practical cybersecurity skills
 and begin my career as a cybersecurity professional.
 
 ### Connect With Me
-- LinkedIn: [My LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/vadapalli-satya-sai-siva-venkapathi-raju-80789b367/?utm_source=chatgpt.com))
+- LinkedIn: (https://www.linkedin.com/in/vadapalli-satya-sai-siva-venkapathi-raju-80789b367/?utm_source=chatgpt.com))
 
 ---
 *Learning every day. Building skills through practice.*
